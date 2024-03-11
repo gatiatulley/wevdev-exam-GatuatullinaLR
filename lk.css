@@ -1,0 +1,34 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background-image: url(img/fon.jpg);
+    width: 100%;
+    height: 1000px;
+}
+header{
+    font-size: 1.5em;
+
+}
+
+.lk{
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(58, 22, 22);
+    color: rgb(255, 255, 255);
+    height: 250px;
+    padding-top: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteiner{ 
+    width: 90%;
+    text-align: center;
+}
+  
